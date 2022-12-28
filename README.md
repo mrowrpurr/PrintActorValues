@@ -1,8 +1,16 @@
-> 📜 other templates available at https://github.com/SkyrimScripting/SKSE_Templates
+> 📜 other SKSE templates available at https://github.com/SkyrimScripting/SKSE_Templates
 
-# Skyrim Scripting SKSE Starter Kit
+# Print Actor Values
 
-- [Skyrim Scripting SKSE Starter Kit](#skyrim-scripting-skse-starter-kit)
+This is created from the [SKSE StarterKit template](https://github.com/SkyrimScripting/SKSE_Template_StarterKit)
+
+When the game runs, it prints all of the "Actor Values" (_base values and modifiers_) to a `.log` file at `My Games\Skyrim Special Edition [GOG]\SKSE\PrintActorValues.log`
+
+Made by request.
+
+---
+
+- [Print Actor Values](#print-actor-values)
   - [Features](#features)
   - [What does it do?](#what-does-it-do)
   - [Skyrim Scripting helper libraries](#skyrim-scripting-helper-libraries)
